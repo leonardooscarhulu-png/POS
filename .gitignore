@@ -1,0 +1,12 @@
+# Dependency manager
+/vendor/
+
+# Configuration (Sangat penting untuk project kamu!)
+config.php
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs & Cache
+*.log
